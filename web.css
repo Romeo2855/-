@@ -9,7 +9,7 @@ a{
 ul{
     list-style: none;
 }
-#clear{
+.clear{
     clear: both;
 }
 .container{
@@ -22,10 +22,10 @@ ul{
     height: 81px;
     width: 1350px;
 }
-#left{
+.left{
     float: left;
 }
-#right{
+.right{
     float: right;
 }
 .header ul{
